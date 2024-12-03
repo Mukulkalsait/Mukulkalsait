@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Java & DSA.<br>👯 I’m looking to collaborate on Web Development Project.<br>🌱 I’m currently learning Full Stack Developement.<br>💬 Ask me about TECH related News.<br>
+🔭 I’m currently working on Java & Web Developement .<br>👯 I’m looking to collaborate on Web Development and Java based Project.<br>🌱 I’m currently learning JAVA, DSA, Linux, Full Stack WEB Developement, AWS and much more.<br>💬 Ask me about Hardware & Softwere news.<br>
 
 ## 🌐 Socials:
 
