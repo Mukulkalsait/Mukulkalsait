@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Mukul and I'm a Nagpur, from India.</h2>
+<h2 align="left">Hi 👋! My name is Mukul and I'm a back-end Dev, from India.</h2>
 
 ###
 
