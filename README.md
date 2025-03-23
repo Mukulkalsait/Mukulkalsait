@@ -104,7 +104,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulkalsait&locale=en&hide_title=true&layout=compact&card_width=460&langs_count=12&theme=radical&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulkalsait&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=12&theme=radical&hide_border=true" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Mukulkalsait&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
 </div>
 <div align="center">
