@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Java & DSA and learning Full Stack Developement.<br/>
 👯 I’m looking to collaborate on Web Development Project.<br/>
-🌱 Just Started a job at RG VP Web Soultions, Nagpur.<br/>
+🌱 Working at RG VP Web Soultions, Nagpur.<br/>
 💬 Feel free to text me anytime .<br/>
 
 <br clear="both">
