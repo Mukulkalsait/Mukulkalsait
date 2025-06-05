@@ -3,7 +3,7 @@
 🔧 Backend Developer | Full-Stack Web Developer  
 🌍 Based in Nagpur, India  
 📫 [mukul.kalsait21@gmail.com](mailto:mukul.kalsait21@gmail.com) ,[mdk.121.72633.sg@gmail.com](mailto:mdk.121.72633.sg@gmail.com)  
-🌐 [Portfolio/Work](https://vihaanaigames.com) • [LinkedIn](https://linkedin.com/in/mukul-dk-7629242b3)
+🌐 [Portfolio/Work](https://vihaanaigames.com) • [LinkedIn](https://www.linkedin.com/in/mukul-kalsait-7629242b3/)
 
 ---
 
