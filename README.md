@@ -1,36 +1,11 @@
-# 👋 Hi, I'm Mukul Kalsait (he/him)
+# 💫 About Me:
 
-🔧 Backend Developer | Full-Stack Web Developer  
-🌍 Based in Nagpur, India  
-📫 [mukul.kalsait21@gmail.com](mailto:mukul.kalsait21@gmail.com)  
-🌐 [Portfolio/Work](https://vihaanaigames.com) • [LinkedIn](https://linkedin.com/in/mukul-dk-7629242b3)
+🔭 I’m currently working on Java & DSA and learning Full Stack Developement.<br/>
+👯 I’m looking to collaborate on Web Development Project.<br/>
+🌱 Just Started a job at RG VP Web Soultions, Nagpur.<br/>
+💬 Feel free to text me anytime .<br/>
 
----
-
-## 💫 About Me
-
-- 🔭 Currently working at **RGVP Web Solutions** as a Backend Developer & Internship Coordinator
-- 🧠 Learning Rust, improving DSA, and building full-stack projects using **Node.js**, **React**, and **MySQL**
-- 💻 Deployed 35+ real-world apps across education, e-commerce, and CRM domains
-- 👯 Open to collaborate on meaningful web-based projects
-- 🎯 Passionate about clean code, backend performance, and learning how systems work
-- 🎵 When not coding, I explore Linux tools, tech news, and play some music
-- 💬 Feel free to reach out if you want to collaborate or just talk tech!
-
----
-
-## 🔨 Tech Stack
-
-- **Languages**: JavaScript, PHP, TypeScript, Rust, Bash
-- **Frontend**: React.js, HTML5, Tailwind CSS, Bootstrap, jQuery
-- **Backend**: Node.js, Express.js, REST APIs, OAuth2, JWT
-- **Databases**: MySQL, MongoDB, SQLite
-- **Tools & DevOps**: Git, GitHub, AWS EC2, Nginx, cPanel, Docker (learning), GitHub Actions
-- **OS Love**: WSL2, Ubuntu, Arch Linux
-
----
-
-_“I love writing code that solves real problems.”_
+<br clear="both">
 
 <div align="center">
   <a href="mukul.kalsait21@gmil.com" target="_blank">
@@ -51,6 +26,8 @@ _“I love writing code that solves real problems.”_
 </div>
 
 ###
+
+<h2 align="left">Hi 👋! My name is Mukul and I'm a Nagpur, from India.</h2>
 
 ###
 
