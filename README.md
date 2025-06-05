@@ -14,7 +14,7 @@
 - 💻 Deployed 35+ real-world apps across education, e-commerce, and CRM domains
 - 👯 Open to collaborate on meaningful web-based projects
 - 🎯 Passionate about clean code, backend performance, and learning how systems work
-- 🎵 When not coding, I explore Linux tools, tech news, and play some music
+- 🎵 When not coding, I explore Linux tools, tech news, and play a lot-lot music, Hi-Res music and music tech freak, collected over 1000+ high quality hindi audio albums.
 - 💬 Feel free to reach out if you want to collaborate or just talk tech!
 
 ---
