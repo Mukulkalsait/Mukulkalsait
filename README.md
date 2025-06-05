@@ -2,8 +2,8 @@
 
 🔧 Backend Developer | Full-Stack Web Developer  
 🌍 Based in Nagpur, India  
-📫 [mukul.kalsait21@gmail.com](mailto:mukul.kalsait21@gmail.com) ,[mdk.121.72633.sg@gmail.com](mailto:mdk.121.72633.sg@gmail.com)  
-🌐 [Portfolio/Work](https://vihaanaigames.com) • [LinkedIn](https://www.linkedin.com/in/mukul-kalsait-7629242b3/)
+📫 [mukul.kalsait21@gmail.com](mailto:mukul.kalsait21@gmail.com) • [mdk.121.72633.sg@gmail.com](mailto:mdk.121.72633.sg@gmail.com)  
+🌐 [Portfolio/Work](https://vihaanaigames.com)
 
 ---
 
@@ -33,10 +33,7 @@
 _“I love writing code that solves real problems.”_
 
 <div align="center">
-  <a href="mukul.kalsait21@gmil.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mukul-dk-7629242b3/" target="_blank">
+  <a href="https://www.linkedin.com/in/mukul-kalsait-7629242b3/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/mukul_dk/" target="_blank">
