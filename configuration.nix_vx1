@@ -1,0 +1,33 @@
+{ config, pkgs, ... }:
+
+{
+  imports = [ ./hardware-configuration.nix ];
+
+  nix.settings.experimental-features = [ "nix-command" "flakes" ];
+
+  boot.loader.systemd-boot.enable = true;
+  boot.loader.efi.canTouchEfiVariables = true;
+
+  networking.hostName = "myHost";
+  networking.networkmanager.enable = true;
+  time.timeZone = "Asia/Kolkata";
+
+  users.users.mukul = {
+    isNormalUser = true;
+    extraGroups = [ "wheel" "networkmanager" ];
+    hashedPassword = ""; # set later
+  };
+
+  # Optional: enable Hyprland
+  programs.hyprland.enable = true;
+
+  # Display setup (choose one)
+  services.xserver.enable = false;
+  # Or if using X11 fallback:
+  # services.xserver.enable = true;
+  # services.xserver.windowManager.hyprland.enable = true;
+
+  # Uncomment if you want NVIDIA
+  # services.xserver.videoDrivers = [ "nvidia" ];
+  # hardware.nvidia.modesetting.enable = true;
+}
