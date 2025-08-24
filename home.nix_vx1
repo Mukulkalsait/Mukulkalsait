@@ -1,0 +1,26 @@
+{ config, pkgs, ... }:
+
+{
+  home.username = "mukul";
+  home.homeDirectory = "/home/mukul";
+  home.stateVersion = "25.05";
+
+  programs.home-manager.enable = true;
+
+  programs.zsh = {
+    enable = true;
+    enableCompletion = true;
+    shellAliases = {
+      ll = "ls -la";
+      gs = "git status";
+    };
+  };
+
+  home.packages = with pkgs; [
+    neovim
+    git
+    curl
+    wget
+    starship
+  ];
+}
