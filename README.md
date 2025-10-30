@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mukul Kalsait (he/him)
 
-🔧 Backend Developer | Full-Stack Web Developer  
+🔧 Backend Developer | Full-Stack Web Developer | DevOps Eng.
 🌍 Based in Nagpur, India  
 📫 [mukul.kalsait21@gmail.com](mailto:mukul.kalsait21@gmail.com) • [mdk.121.72633.sg@gmail.com](mailto:mdk.121.72633.sg@gmail.com)  
 🌐 [Portfolio/Work](https://vihaanaigames.com)
@@ -9,11 +9,12 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working at **RGVP Web Solutions** as a Backend Developer & Internship Coordinator
-- 🧠 Learning Rust, improving DSA, and building full-stack projects using **Node.js**, **React**, and **MySQL**
+- 🔭 Currently working at **VihaanAItech** as a DevOps Eng & Complete Website Administrator.
+- 🧠 Docker Podman Kubernetes With Rust, Ts, Js.
 - 💻 Deployed 35+ real-world apps across education, e-commerce, and CRM domains
 - 👯 Open to collaborate on meaningful web-based projects
 - 🎯 Passionate about clean code, backend performance, and learning how systems work
+- NixOs user.
 - 🎵 When not coding, I explore Linux tools, tech news, and play a lot-lot music, Hi-Res music and music tech freak, collected over 1000+ high quality hindi audio albums.
 - 💬 Feel free to reach out if you want to collaborate or just talk tech!
 
