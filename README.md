@@ -65,7 +65,7 @@ Started as a **backend developer (35+ deployed projects)** — now designing **a
 ### 🧰 My Favorite Tools & Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nix,arch,ubuntu,linux,bash,vim,neovim,nginx,docker,kubernetes,ansible,terraform,aws,grafana,prometheus,git,github,php,js,ts,rust,python,lua,react,tailwind,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nix,arch,ubuntu,linux,bash,vim,neovim,nginx,docker,kubernetes,ansible,graphql,terraform,aws,gitlab,grafana,prometheus,git,bun,cloudflare,github,vite,js,ts,rust,python,lua,react,md,tailwind,mysql,php,mongodb,sqlite,redis" />
 </p>
 
 ---
