@@ -75,10 +75,10 @@ Started as a **backend developer (35+ deployed projects)** — now designing **a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulkalsait&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=420" height="180" />
 </p>
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukulkalsait&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulkalsait&theme=radical&hide_border=true" height="180" />
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukulkalsait&show_icons=true&theme=radical&hide_border=true" height="180" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulkalsait&theme=radical&hide_border=true" height="180" width="50%" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukulkalsait&theme=github-compact&radius=16" height="260" />
