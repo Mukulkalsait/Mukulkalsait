@@ -74,11 +74,10 @@ Started as a **backend developer (35+ deployed projects)** — now designing **a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulkalsait&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=420" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukulkalsait&show_icons=true&theme=radical&hide_border=true" height="180" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulkalsait&theme=radical&hide_border=true" height="160" />
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukulkalsait&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulkalsait&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
