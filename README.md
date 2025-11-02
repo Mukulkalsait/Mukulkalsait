@@ -73,7 +73,7 @@ Started as a **backend developer (35+ deployed projects)** — now designing **a
 ### 📊 Language & Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulkalsait&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=420" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulkalsait&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=12&card_width=420" height="180" />
 </p>
 <table>
   <tr>
