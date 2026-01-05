@@ -84,7 +84,7 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 ### 🧰 My Favorite Tools & Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nix,arch,ubuntu,linux,bash,vim,neovim,nginx,docker,kubernetes,ansible,terraform,aws,gitlab,grafana,prometheus,git,cloudflare,github,rust,python,lua,react,js,ts,tailwind,mysql,php,mongodb,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=nix,arch,ubuntu,linux,bash,vim,neovim,nginx,docker,kubernetes,ansible,terraform,aws,gitlab,grafana,prometheus,git,cloudflare,github,rust,python,lua,react,js,ts,tailwind,mysql,php,mongodb,sqlite" />
 </p>
 
 ---
