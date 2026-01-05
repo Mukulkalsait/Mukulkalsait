@@ -69,7 +69,7 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 <!-- - Deployed **AI-powered SaaS platform** on AWS EC2 with MySQL, Nginx, SSL automation, and security hardening. -->
 <!-- - Reduced system downtime by **90%** through proactive health checks, automated deployments, and robust error handling. -->
 <!-- - Configured network diagnostics and troubleshooting workflows using `mtr`, `tcpdump`, `ss`, and `dig`. -->
-<!---->
+
 ---
 
 ### 🧾 Certifications
@@ -91,29 +91,36 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 
 ### 📊 GitHub Stats & Activity
 
-<!-- Contribution Streak -->
+<!-- GitHub Contribution Graph - WORKING -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mukulkalsait&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukulkalsait&theme=github-compact&radius=16" height="260" />
 </p>
 
-<!-- Top Languages with more visibility -->
+<!-- Contribution Streak - Simple & Reliable -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulkalsait&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=500" />
+  <img src="https://nirzak-streak-stats.vercel.app/api?user=Mukulkalsait&theme=radical&hide_border=true" width="500"/>
 </p>
 
-<!-- Contribution Graph -->
+<!-- GitHub Stats Card - Alternative Service -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/FF4458/Mukulkalsait" alt="Mukul's Github Contribution Graph" width="800"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Mukulkalsait&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="180"/>
+</p>
+
+<!-- Top Languages - Simple Version -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukulkalsait&theme=radical" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukulkalsait&theme=radical" height="180"/>
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukulkalsait&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="800"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mukulkalsait&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mukulkalsait&color=red&style=for-the-badge&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Mukulkalsait?style=for-the-badge&logo=github&label=Followers&color=blue" />
 </p>
 
 ---
