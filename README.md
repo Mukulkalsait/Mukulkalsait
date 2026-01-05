@@ -5,7 +5,6 @@
   <strong>Nagpur, India</strong> • <a href="mailto:mukul.kalsait21@gmail.com">mukul.kalsait21@gmail.com</a>
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mukul-kalsait-7629242b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Mukulkalsait"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -52,21 +51,21 @@ Hands-on series covering Dockerfile optimization, multi-stage builds, Podman roo
 #### 🔴 [RHCSA Reality Check Series](http://www.youtube.com/@Mukul_DK_cic) - YouTube + GitHub
 Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firewall configuration, and advanced Linux administration in VM labs.
 
-#### 🧩 Vihaanaitech Cloud Infrastructure (Current)
+<!-- #### 🧩 Vihaanaitech Cloud Infrastructure (Current) -->
 <!-- - Architected **multi-cloud infrastructure (AWS + OCI)** with automated DNS management and SSL renewal workflows. -->
 <!-- - Built **IaC pipelines** with Terraform + Ansible for reproducible, version-controlled deployments. -->
 <!-- - Managed **Kubernetes clusters (Kind/Podman)** for containerized microservices with 99%+ uptime. -->
 <!-- - Integrated **GitHub Actions** for continuous build, test, and release automation. -->
 <!-- - Implemented comprehensive **monitoring stack** (Grafana + Prometheus + Loki) for real-time observability. -->
-
-#### 💡 RG-VP Web Solutions (Systems Administrator & Backend Developer)
+<!---->
+<!-- #### 💡 RG-VP Web Solutions (Systems Administrator & Backend Developer) -->
 <!-- - Managed shared **Linux production servers** hosting 35+ client applications with **99%+ uptime**. -->
 <!-- - Implemented security hardening, automated backups, log rotation, and performance tuning across multiple environments. -->
 <!-- - Improved API performance by **40%** through database optimization and query refactoring. -->
 <!-- - Deployed **Netdata monitoring** for rapid incident detection and resolution. -->
 <!-- - Mentored 10+ interns on Git workflows, Linux administration, and CI/CD best practices. -->
-
-#### 🧰 Freelance Infrastructure Projects
+<!---->
+<!-- #### 🧰 Freelance Infrastructure Projects -->
 <!-- - Deployed **AI-powered SaaS platform** on AWS EC2 with MySQL, Nginx, SSL automation, and security hardening. -->
 <!-- - Reduced system downtime by **90%** through proactive health checks, automated deployments, and robust error handling. -->
 <!-- - Configured network diagnostics and troubleshooting workflows using `mtr`, `tcpdump`, `ss`, and `dig`. -->
@@ -93,16 +92,20 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukulkalsait&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukulkalsait&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mukulkalsait&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Mukulkalsait&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukulkalsait&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=10&count_private=true" height="200" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Mukulkalsait&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=10&count_private=true" height="200" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukulkalsait&theme=github-compact&radius=16&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukulkalsait&theme=radical" />
 </p>
 
 ---
