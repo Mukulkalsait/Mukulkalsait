@@ -53,23 +53,23 @@ Hands-on series covering Dockerfile optimization, multi-stage builds, Podman roo
 Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firewall configuration, and advanced Linux administration in VM labs.
 
 #### 🧩 Vihaanaitech Cloud Infrastructure (Current)
-- Architected **multi-cloud infrastructure (AWS + OCI)** with automated DNS management and SSL renewal workflows.
-- Built **IaC pipelines** with Terraform + Ansible for reproducible, version-controlled deployments.
-- Managed **Kubernetes clusters (Kind/Podman)** for containerized microservices with 99%+ uptime.
-- Integrated **GitHub Actions** for continuous build, test, and release automation.
-- Implemented comprehensive **monitoring stack** (Grafana + Prometheus + Loki) for real-time observability.
+<!-- - Architected **multi-cloud infrastructure (AWS + OCI)** with automated DNS management and SSL renewal workflows. -->
+<!-- - Built **IaC pipelines** with Terraform + Ansible for reproducible, version-controlled deployments. -->
+<!-- - Managed **Kubernetes clusters (Kind/Podman)** for containerized microservices with 99%+ uptime. -->
+<!-- - Integrated **GitHub Actions** for continuous build, test, and release automation. -->
+<!-- - Implemented comprehensive **monitoring stack** (Grafana + Prometheus + Loki) for real-time observability. -->
 
 #### 💡 RG-VP Web Solutions (Systems Administrator & Backend Developer)
-- Managed shared **Linux production servers** hosting 35+ client applications with **99%+ uptime**.
-- Implemented security hardening, automated backups, log rotation, and performance tuning across multiple environments.
-- Improved API performance by **40%** through database optimization and query refactoring.
-- Deployed **Netdata monitoring** for rapid incident detection and resolution.
-- Mentored 10+ interns on Git workflows, Linux administration, and CI/CD best practices.
+<!-- - Managed shared **Linux production servers** hosting 35+ client applications with **99%+ uptime**. -->
+<!-- - Implemented security hardening, automated backups, log rotation, and performance tuning across multiple environments. -->
+<!-- - Improved API performance by **40%** through database optimization and query refactoring. -->
+<!-- - Deployed **Netdata monitoring** for rapid incident detection and resolution. -->
+<!-- - Mentored 10+ interns on Git workflows, Linux administration, and CI/CD best practices. -->
 
 #### 🧰 Freelance Infrastructure Projects
-- Deployed **AI-powered SaaS platform** on AWS EC2 with MySQL, Nginx, SSL automation, and security hardening.
-- Reduced system downtime by **90%** through proactive health checks, automated deployments, and robust error handling.
-- Configured network diagnostics and troubleshooting workflows using `mtr`, `tcpdump`, `ss`, and `dig`.
+<!-- - Deployed **AI-powered SaaS platform** on AWS EC2 with MySQL, Nginx, SSL automation, and security hardening. -->
+<!-- - Reduced system downtime by **90%** through proactive health checks, automated deployments, and robust error handling. -->
+<!-- - Configured network diagnostics and troubleshooting workflows using `mtr`, `tcpdump`, `ss`, and `dig`. -->
 
 ---
 
