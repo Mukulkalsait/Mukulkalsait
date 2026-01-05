@@ -91,20 +91,13 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 
 ### 📊 GitHub Stats & Activity
 
-<!-- GitHub Contribution Graph - WORKING -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukulkalsait&theme=github-compact&radius=16" height="260" />
-</p>
 
 <!-- Contribution Streak - Simple & Reliable -->
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/api?user=Mukulkalsait&theme=radical&hide_border=true" width="500"/>
-</p>
-
-<!-- GitHub Stats Card - Alternative Service -->
-<p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Mukulkalsait&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="180"/>
 </p>
+
 
 <!-- Top Languages - Simple Version -->
 <p align="center">
@@ -112,9 +105,9 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukulkalsait&theme=radical" height="180"/>
 </p>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Contribution Graph - WORKING -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukulkalsait&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukulkalsait&theme=github-compact&radius=16" height="260" />
 </p>
 
 <!-- Profile Views Counter -->
