@@ -69,7 +69,7 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 <!-- - Deployed **AI-powered SaaS platform** on AWS EC2 with MySQL, Nginx, SSL automation, and security hardening. -->
 <!-- - Reduced system downtime by **90%** through proactive health checks, automated deployments, and robust error handling. -->
 <!-- - Configured network diagnostics and troubleshooting workflows using `mtr`, `tcpdump`, `ss`, and `dig`. -->
-
+<!---->
 ---
 
 ### 🧾 Certifications
@@ -91,21 +91,29 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 
 ### 📊 GitHub Stats & Activity
 
+<!-- Contribution Streak -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mukulkalsait&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Mukulkalsait&theme=radical&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Mukulkalsait&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="500"/>
 </p>
 
+<!-- Top Languages with more visibility -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Mukulkalsait&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=10&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukulkalsait&layout=compact&theme=radical&hide_border=true&langs_count=14&card_width=500" />
 </p>
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukulkalsait&theme=github-compact&radius=16&hide_border=true" />
+  <img src="https://ghchart.rshah.org/FF4458/Mukulkalsait" alt="Mukul's Github Contribution Graph" width="800"/>
 </p>
 
+<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mukulkalsait&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mukulkalsait&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="800"/>
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mukulkalsait&color=red&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
