@@ -35,7 +35,7 @@
 | 🐧 **Linux & Systems** | Ubuntu • CentOS • NixOS • RHEL • Systemd • SELinux • SSH • Firewalls • VPC • Disaster Recovery |
 | 🌐 **Networking & Diagnostics** | Nginx • Apache • Load Balancing • SSL/TLS • `ping` • `curl` • `ss` • `netstat` • `mtr` • `dig` • `nslookup` • `tcpdump` |
 | ☁️ **Cloud & DevOps** | AWS EC2/S3/IAM • OCI DevOps • Docker • Podman • Kubernetes • Helm • GitOps • Terraform • Ansible |
-| 📊 **Monitoring & Observability** | Grafana • Prometheus • Loki • Netdata • CloudWatch • cAdvisor • Log Aggregation |
+| 📊 **Monitoring & Observability** | Grafana • Prometheus • Loki • Netdata • CloudWatch • Log Aggregation |
 | 🔄 **CI/CD & Automation** | GitHub Actions • Jenkins • Bash Scripting • Backup Automation • Uptime Monitoring |
 | 💻 **Programming & Scripting** | Bash • Rust • Python • PHP • JavaScript • TypeScript • Lua |
 | 🗄️ **Databases** | MySQL • MariaDB • MongoDB • Redis • SQLite • Query Optimization |
@@ -91,35 +91,23 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 
 ### 📊 GitHub Stats & Activity
 
-<!-- GitHub Contribution Graph - WORKING -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukulkalsait&theme=github-compact&radius=16" height="260" />
-</p>
 
 <!-- Contribution Streak - Simple & Reliable -->
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/api?user=Mukulkalsait&theme=radical&hide_border=true" width="500"/>
-</p>
-
-<!-- GitHub Stats Card - Alternative Service -->
-<p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Mukulkalsait&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="180"/>
 </p>
 
-<!-- Top Languages - Shows up to 12-14 languages -->
+
+<!-- Top Languages - Simple Version -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukulkalsait&theme=radical" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukulkalsait&theme=radical" height="180"/>
 </p>
 
-<!-- Alternative: Compact languages chart showing more languages -->
+<!-- GitHub Contribution Graph - WORKING -->
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mukulkalsait&layout=compact&theme=radical&hide_border=true&langs_count=12" width="500"/>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mukulkalsait&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mukulkalsait&theme=github-compact&radius=16" height="260" />
 </p>
 
 <!-- Profile Views Counter -->
