@@ -1,13 +1,14 @@
-<div style="display: flex; justify-content: space-around;">
-  <div style="background-color:red">
+## 📂 Featured Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [🐳 Dockerfile From Scratch](https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch) | Master Docker from the ground up! Learn containerization, best practices, and build production-ready containers. |
+
+<p align="center">
   <a href="https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch" alt="A01_100_Dockerfile_From_Scratch" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch&theme=radical" />
   </a>
-  </div>
-  <a href="https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch" alt="A01_100_Dockerfile_From_Scratch" width="400" />
-  </a>
-</div>
+</p>
 ---
 <h1 align="center">👋 Hi, I'm Mukul Kalsait</h1>
 <p align="center">
