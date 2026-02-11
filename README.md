@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-around;">
-  <div style="background-color:'red'">
+  <div style="background-color:red">
   <a href="https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch" alt="A01_100_Dockerfile_From_Scratch" width="400" />
   </a>
