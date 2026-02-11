@@ -9,6 +9,23 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch&theme=radical" />
   </a>
 </p>
+
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
+### Docker & DevOps Journey
+
+<a href="https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch&theme=radical" alt="Dockerfile From Scratch" />
+</a>
+
+<a href="https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch&theme=tokyonight" alt="Dockerfile From Scratch" />
+</a>
+
+</div>
 ---
 <h1 align="center">👋 Hi, I'm Mukul Kalsait</h1>
 <p align="center">
