@@ -131,6 +131,31 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 ### 📊 GitHub Stats & Activity
 
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+
+  <!-- Streak -->
+  <div style="flex: 1; min-width: 350px; text-align: center;">
+    <img src="https://nirzak-streak-stats.vercel.app/api?user=Mukulkalsait&theme=radical&hide_border=true" width="100%"/>
+  </div>
+
+  <!-- Alpha stats -->
+  <div style="flex: 1; min-width: 350px; text-align: center;">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Mukulkalsait&cc=22272e&tc=37BCF6&ic=fff&bc=0000" width="100%"/>
+  </div>
+
+  <!-- Repos per lang -->
+  <div style="flex: 1; min-width: 350px; text-align: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukulkalsait&theme=radical" width="100%"/>
+  </div>
+
+  <!-- Most commit lang -->
+  <div style="flex: 1; min-width: 350px; text-align: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukulkalsait&theme=radical" width="100%"/>
+  </div>
+
+</div>
+
+
 <div align="center">
 <!-- Contribution Streak - Simple & Reliable -->
 <p align="center" style"width=50%;">
