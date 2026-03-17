@@ -133,14 +133,14 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 
 <div align="center">
 <!-- Contribution Streak - Simple & Reliable -->
-<p align="center">
+<p align="center" style"width=50%;">
   <img src="https://nirzak-streak-stats.vercel.app/api?user=Mukulkalsait&theme=radical&hide_border=true" width="500"/>
   <img src="https://github-stats-alpha.vercel.app/api?username=Mukulkalsait&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="180"/>
 </p>
 
 
 <!-- Top Languages - Simple Version -->
-<p align="center">
+<p align="center" style"width=50%;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukulkalsait&theme=radical" height="180"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukulkalsait&theme=radical" height="180"/>
 </p>
