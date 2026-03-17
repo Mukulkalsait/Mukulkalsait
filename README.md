@@ -30,6 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A04_Linux_Production_OPS-LAB&theme=tokyonight" alt="Dockerfile From Scratch" />
 </a>
 
+<a href="https://github.com/Mukulkalsait/A04_Linux_Production_OPS-LAB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A04_Linux_Production_OPS-LAB&theme=tokyonight" alt="Dockerfile From Scratch" />
+</a>
+
 </div>
 
 <h1 align="center">👋 Hi, I'm Mukul Kalsait</h1>
