@@ -27,7 +27,7 @@
 </a>
 
 </div>
----
+
 <h1 align="center">👋 Hi, I'm Mukul Kalsait</h1>
 <p align="center">
   🚀 <strong>Site Reliability Engineer | Linux Systems Engineer | Cloud Infrastructure Specialist</strong><br>
