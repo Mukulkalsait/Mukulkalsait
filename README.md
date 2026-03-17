@@ -24,15 +24,15 @@
 </a>
 
 <a href="https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A05_Blockchain_Node_Deployment-Reliability_Setup&theme=tokyonigh&cache_seconds=21600&v=1742250000&description_lines_count=2" alt="Dockerfile From Scratch" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A05_Blockchain_Node_Deployment-Reliability_Setup&theme=tokyonight&cache_seconds=21600&v=1742250000&description_lines_count=2" alt="A05_Blockchain_Node_Deployment-Reliability_Setup" />
 </a>
 
 <a href="https://github.com/Mukulkalsait/A04_Linux_Production_OPS-LAB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A04_Linux_Production_OPS-LAB&theme=tokyonight&cache_seconds=21600&v=1742250000&description_lines_count=2" alt="Dockerfile From Scratch" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A04_Linux_Production_OPS-LAB&theme=tokyonight&cache_seconds=21600&v=1742250000&description_lines_count=2" alt="A04_Linux_Production_OPS-LAB" />
 </a>
 
 <a href="https://github.com/Mukulkalsait/A06_Sys_Watch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A06_Sys_Watch&theme=tokyonight&cache_seconds=21600&v=1742250000&description_lines_count=2" alt="System Administration cli in RUST" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A06_Sys_Watch&theme=tokyonight&cache_seconds=21600&v=1742250000&description_lines_count=2" alt="A06_Sys_Watch:System Administration cli in RUST" />
 </a>
 
 </div>
