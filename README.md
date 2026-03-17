@@ -30,8 +30,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A04_Linux_Production_OPS-LAB&theme=tokyonight" alt="Dockerfile From Scratch" />
 </a>
 
-<a href="https://github.com/Mukulkalsait/A04_Linux_Production_OPS-LAB">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A04_Linux_Production_OPS-LAB&theme=tokyonight" alt="Dockerfile From Scratch" />
+<a href="https://github.com/Mukulkalsait/A06_Sys_Watch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A06_Sys_Watch&theme=tokyonight" alt="System Administration cli in RUST" />
 </a>
 
 </div>
