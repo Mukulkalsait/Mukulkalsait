@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup&theme=tokyonight" alt="Dockerfile From Scratch" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A05_Blockchain_Node_Deployment-Reliability_Setup&theme=tokyonight" alt="Dockerfile From Scratch" />
 </a>
 
 </div>
