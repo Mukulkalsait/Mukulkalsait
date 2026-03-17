@@ -1,15 +1,16 @@
-## 📂 Featured Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [🐳 Dockerfile From Scratch](https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch) | Master Docker from the ground up! Learn containerization, best practices, and build production-ready containers. |
-
-<p align="center">
-  <a href="https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch&theme=radical" />
-  </a>
-</p>
-
+ <!-- Y: HIDDEN PART  -->
+<!-- ## 📂 Featured Repositories -->
+<!---->
+<!-- | Repository | Description | -->
+<!-- |------------|-------------| -->
+<!-- | [🐳 Dockerfile From Scratch](https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch) | Master Docker from the ground up! Learn containerization, best practices, and build production-ready containers. | -->
+<!---->
+<!-- <p align="center"> -->
+<!--   <a href="https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch"> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch&theme=radical" /> -->
+<!--   </a> -->
+<!-- </p> -->
+<!---->
 
 ## 🚀 Featured Projects
 
@@ -21,8 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch&theme=radical" alt="Dockerfile From Scratch" />
 </a>
 
-<a href="https://github.com/Mukulkalsait/A01_100_Dockerfile_From_Scratch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A01_100_Dockerfile_From_Scratch&theme=tokyonight" alt="Dockerfile From Scratch" />
+<a href="https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup&theme=tokyonight" alt="Dockerfile From Scratch" />
 </a>
 
 </div>
