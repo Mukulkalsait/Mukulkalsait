@@ -89,10 +89,10 @@
 
 ### 🧠 Projects & Highlights
 
-#### 🔴 [Blockchain Node SRE Setup](https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup) - GitHub
+#### ⛓️‍💥 [Blockchain Node SRE Setup](https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup) - GitHub
 SRE grade Geth setup with complete Prometheus, Grafana, Podman, and Etherium Monitoring. 
 
-#### 🔴 [A06_Sys_Watch](https://github.com/Mukulkalsait/A06_Sys_Watch) - YouTube + GitHub
+#### 🚀 [A06_Sys_Watch](https://github.com/Mukulkalsait/A06_Sys_Watch) - YouTube + GitHub
 A system monitoring CLI tool written in Rust.
 
 #### 🎬 [100x Dockerfile Series](http://www.youtube.com/@Mukul_DK_cic) - YouTube + GitHub
