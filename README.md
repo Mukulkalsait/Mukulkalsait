@@ -18,8 +18,9 @@
   
 ### Docker & DevOps Journey
 
+
   <a href="https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A05_Blockchain_Node_Deployment-Reliability_Setup&theme=radical&cache_seconds=21600&v=1742250000&description_lines_count=2" alt="A05_Blockchain_Node_Deployment-Reliability_Setup" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mukulkalsait&repo=A05_Blockchain_Node_Deployment-Reliability_Setup&theme=neon&cache_seconds=21600&v=1742250000&description_lines_count=2" alt="Blockchain Nodes Server" />
   </a>
    
   <a href="https://github.com/Mukulkalsait/A04_Linux_Production_OPS-LAB">
