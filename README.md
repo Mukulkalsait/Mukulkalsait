@@ -89,11 +89,18 @@
 
 ### 🧠 Projects & Highlights
 
+#### 🔴 [Blockchain Node SRE Setup](https://github.com/Mukulkalsait/A05_Blockchain_Node_Deployment-Reliability_Setup) - GitHub
+SRE grade Geth setup with complete Prometheus, Grafana, Podman, and Etherium Monitoring. 
+
+#### 🔴 [A06_Sys_Watch](https://github.com/Mukulkalsait/A06_Sys_Watch) - YouTube + GitHub
+A system monitoring CLI tool written in Rust.
+
 #### 🎬 [100x Dockerfile Series](http://www.youtube.com/@Mukul_DK_cic) - YouTube + GitHub
 Hands-on series covering Dockerfile optimization, multi-stage builds, Podman rootless workflows, and containerization best practices for production workloads.
 
 #### 🔴 [RHCSA Reality Check Series](http://www.youtube.com/@Mukul_DK_cic) - YouTube + GitHub
 Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firewall configuration, and advanced Linux administration in VM labs.
+
 
 <!-- #### 🧩 Vihaanaitech Cloud Infrastructure (Current) -->
 <!-- - Architected **multi-cloud infrastructure (AWS + OCI)** with automated DNS management and SSL renewal workflows. -->
@@ -181,7 +188,6 @@ Real-world RHCSA exam challenges: SELinux troubleshooting, LVM management, firew
 
 Check out my technical articles on [Medium](https://mukul--dk.medium.com/) covering Linux administration, cloud infrastructure, DevOps practices, and system reliability engineering.
 
----
 
 ### 💬 Let's Connect
 
@@ -199,5 +205,5 @@ I'm always open to discussing **SRE practices**, **Linux administration**, **clo
 
 ---
 
-> 🧠 "Reliability isn't just about preventing failures—it's about building systems that gracefully handle them."  
-> — *Mukul Kalsait*
+<!-- > 🧠 "Reliability isn't just about preventing failures—it's about building systems that gracefully handle them."   -->
+<!-- > — *Mukul Kalsait* -->
